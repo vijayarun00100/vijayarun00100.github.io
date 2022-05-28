@@ -1,0 +1,22 @@
+body{
+	background-image: url("./landing.jpg");
+}
+
+h1{
+	color: white;
+	font-family: 'Spline Sans Mono', monospace;
+    margin-top: 16rem;
+} 
+
+.new>button{
+	border-radius: 60px;
+	border-width: 8px;
+}
+
+.new>button:hover{
+	border-width: 12px;
+}
+
+.buffer{
+	height: 10rem;
+}.
